@@ -50,7 +50,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Contact
 
-Sumit Saha - [masudrana2779@gmail.com](mailto:masudrana2779@gmail.com)
+Masud Rana - [masudrana2779@gmail.com](mailto:masudrana2779@gmail.com)
 
 Project Link: [https://github.com/masudrana2779/react-quiz-lws](https://github.com/masudrana2779/react-quiz-lws)
 
