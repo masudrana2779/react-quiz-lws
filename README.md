@@ -1,15 +1,15 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook Page][facebook-shield]][facebook-url]
-[![Facebook Group][facebook-shield]][facebook-group-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![Youtube][youtube-shield]][youtube-url] -->
+<!-- [![Facebook Page][facebook-shield]][facebook-url] -->
+<!-- [![Facebook Group][facebook-shield]][facebook-group-url] -->
+<!-- [![Instagram][instagram-shield]][instagram-url] -->
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/react-quiz">React Project Tutorial - Quiz Application with Firebase</a></h3>
+  <h3 align="center"><a href="https://github.com/masudrana2779/react-quiz-lws">React Project Tutorial - Quiz Application with Firebase</a></h3>
 
-[![View on Youtube](http://img.youtube.com/vi/W3zMJxCUJAA/0.jpg)](https://youtu.be/W3zMJxCUJAA)
+<!-- [![View on Youtube](http://img.youtube.com/vi/W3zMJxCUJAA/0.jpg)](https://youtu.be/W3zMJxCUJAA) -->
 
 <!-- TABLE OF CONTENTS -->
 
@@ -50,13 +50,13 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
+Sumit Saha - [masudrana2779@gmail.com](mailto:masudrana2779@gmail.com)
 
-Project Link: [https://github.com/learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)
+Project Link: [https://github.com/masudrana2779/react-quiz-lws](https://github.com/masudrana2779/react-quiz-lws)
 
-Youtube Video Link: [https://lwsbd.link/rquiz](https://lwsbd.link/rquiz)
+<!-- Youtube Video Link: [https://lwsbd.link/rquiz](https://lwsbd.link/rquiz) -->
 
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
+<!-- Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit) -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
