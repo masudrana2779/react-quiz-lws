@@ -8,13 +8,14 @@ import useVideosList from "../hooks/useVideosList";
 export default function Videos() {
   const [page, setPage] = useState(1);
   const { loading, error, videos, hasMore } = useVideosList(page);
-  console.log("🚀 ~ Videos ~ videos:", videos);
-  if (loading) {
+  {
+    /*if (loading) {
     return (
       <div>
         <h2>Loading...</h2>
       </div>
     );
+  }*/
   }
   return (
     <div>
@@ -58,7 +59,12 @@ export default function Videos() {
       )}
       {error && (
         <div>
-          <h2>There was an error!!</h2>{" "}
+          <h2>There was an error!!</h2>
+        </div>
+      )}
+      {loading && (
+        <div>
+          <h2>Loading...</h2>
         </div>
       )}
     </div>
