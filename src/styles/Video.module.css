@@ -6,11 +6,13 @@
   padding: 10px;
   border-radius: 4px;
   cursor: pointer;
-  padding-bottom: 1rem;
+  padding-bottom: 1rem; /* Add this line for smooth animation */
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 
 .video:hover {
-  box-shadow: 0 0 15px 0 #e5e5e5;
+  box-shadow: 0 0 25px 0 #e5e5e5;
+  transform: translateY(-10px);
 }
 
 .video p {
